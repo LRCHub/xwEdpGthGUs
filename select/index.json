@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "黎明を穿つ",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-02-10T17:08:58.146082Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黎明を穿つ",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_黎明を穿つ_トゲナシトゲアリ.txt"
+    }
+  ]
+}
